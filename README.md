@@ -25,6 +25,12 @@ Then Extract zip file, move the `svencoop_downloads` folder to `C:\Program Files
 
 Now you are done! Enjoy the best Rewi experience without distractions.
 
+### Disclaimer
+As I mentioned several times above, but this is not official addon created by Remilia's Sven Co-op server, I am not even the creator of these server.
+By installing this mod, you agree to proceeding at your own risk, and cannot receive support from Remilia's Sven Co-op server.
+
+If you find any issues, please report to this repository's issue tracker, NOT to ask support to Remi's Server community.
+
 ### Special Thanks
 * Remilia's Sven Co-op server for your amazing server and community
 * Miraider for constructive feedback about your dissatisfaction, as well as motivation of this project

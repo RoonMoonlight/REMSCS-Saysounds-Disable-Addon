@@ -1,3 +1,5 @@
+**This add-on is now discontinued due to update to disable chatsound functionality has been officially added to Remilia's Sven Co-op Server.**
+
 ![Remiremiremi](http://lh6.ggpht.com/-coQXRTaYzqA/U28YNgqY0JI/AAAAAAAEuyI/kCZ23vGIv_M/w700/touhou_490.png)
 
 (ASCII Art taken from [here](http://anime.en.utf8art.com/arc/touhou_490.html))
